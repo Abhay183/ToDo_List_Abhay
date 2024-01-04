@@ -1,7 +1,5 @@
 # To-Do App
 
-![Screenshot 2023-10-20 025047](https://github.com/s4chin-verma/ToDo-React/assets/101526717/cde8ff81-cc55-44e2-bdd0-d439a492720c)
-
 **Summary**
 
 This To-Do app is a full-stack application built using React.js, Vite, MDB Bootstrap on the frontend, and Node.js with Express.js on the backend. User authentication is handled using JWT tokens, and data is stored in a MongoDB database. The app provides features for managing to-do lists, user registration and authentication, task creation, editing, and deletion.
@@ -12,9 +10,7 @@ This To-Do app is a full-stack application built using React.js, Vite, MDB Boots
 - **Backend**: Node.js, Express.js, MongoDB
 - **Authentication**: JWT Tokens
 
-## Screenshots
-![Screenshot 2023-10-20 025101](https://github.com/s4chin-verma/ToDo-React/assets/101526717/ddbec349-9864-4379-828a-277e08eb228e)
-![Screenshot 2023-10-20 025111](https://github.com/s4chin-verma/ToDo-React/assets/101526717/9e40a59b-73d7-4c73-af9d-dda5f09db763)
+
 
 ## Getting Started
 
