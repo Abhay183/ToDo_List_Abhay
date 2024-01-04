@@ -25,8 +25,7 @@ This To-Do app is a full-stack application built using React.js, Vite, MDB Boots
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/s4chin-verma/ToDo-React.git
-
+ 
 2. Open the project folder in your code editor.
    
 3. Environment Variables
